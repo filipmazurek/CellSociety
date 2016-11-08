@@ -4,8 +4,11 @@ Cell Society
 Cell Society is a cellular automata simulator which has the ability to model several different simulations. The types of simulations are found below:
 
 > Schelling's Model of Segregation: [Segregation](http://nifty.stanford.edu/2014/mccown-schelling-model-segregation/)
+
 > Wa-Tor World: [Wa-Tor](http://nifty.stanford.edu/2011/scott-wator-world/)
+
 > Conway's Game of Life: [Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+
 > Slime Mold Behavior: [Slime](http://zool33.uni-graz.at/schmickl/Self-organization/Group_behavior/Slime_mold_behavior/slime_mold_behavior.html)
 
 How to Run Simulations
