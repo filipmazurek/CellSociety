@@ -1,0 +1,18 @@
+<rules>
+    <wator>
+        <percent_empty>40</percent_empty>
+        <percent_shark>10</percent_shark>
+        <shark_breed>20</shark_breed>
+        <shark_starve>3</shark_starve>
+        <fish_breed>4</fish_breed>
+		<color_map>
+            <s0>#000000</s0>
+            <s1>#66ccff</s1>
+            <s2>#ffb3d9</s2>
+        </color_map>
+        <grid>
+            <col>50</col>
+            <row>50</row>
+        </grid>
+    </wator>
+</rules>

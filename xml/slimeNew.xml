@@ -1,0 +1,26 @@
+<rules>
+    <slime>
+        <num_amoeba>50</num_amoeba>
+        <sniff>10</sniff>
+        <release>2</release>
+		<color_map>
+            <s0>#33cc00</s0>
+            <s1>#000000</s1>
+            <s2>#f7e6ff</s2>
+            <s3>#efccff</s3>
+            <s4>#e7b3ff</s4>
+            <s5>#df99ff</s5>
+            <s6>#d780ff</s6>
+            <s7>#cf66ff</s7>
+            <s8>#c64dff</s8>
+            <s9>#be33ff</s9>
+            <s10>#b61aff</s10>
+            <s11>#ae00ff</s11>
+            <s12>#9d00e6</s12>
+        </color_map>
+        <grid>
+            <col>80</col>
+            <row>80</row>
+        </grid>
+    </slime>
+</rules>

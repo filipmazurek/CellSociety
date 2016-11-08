@@ -1,0 +1,15 @@
+<rules>
+    <fire>
+        <num_burn>5</num_burn>
+        <prob_catch>60</prob_catch>
+		<color_map>
+            <s0>#000000</s0>
+            <s1>#79ff4d</s1>
+            <s2>#ff1a1a</s2>
+        </color_map>
+        <grid>
+            <col>30dfghjkl;</col>
+            <row>30</row>
+        </grid>
+    </fire>
+</rules>

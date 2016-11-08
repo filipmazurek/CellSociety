@@ -1,0 +1,16 @@
+<rules>
+    <segregation>
+        <percent_a>40</percent_a>
+        <percent_empty>60</percent_empty>
+        <percent_satsify>50</percent_satsify>
+		<color_map>
+            <s0>#000000</s0>
+            <s1>#79ff4d</s1>
+            <s2>#ff1a1a</s2>
+        </color_map>
+        <grid>
+            <col>30</col>
+            <row>30</row>
+        </grid>
+    </segregation>
+</rules>

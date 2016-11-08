@@ -1,0 +1,13 @@
+<rules>
+    <life>
+        <num_alive>15</num_alive>
+		<color_map>
+            <s0>#000000</s0>
+            <s1>#1a75ff</s1>
+        </color_map>
+        <grid>
+            <col>30</col>
+            <row>30</row>
+        </grid>
+    </life>
+</rules>
